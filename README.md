@@ -10,4 +10,4 @@
 - 🕸️ [Website](https://adipandas.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/deshpaad/)
 - 🐦 [Twitter](https://twitter.com/aditpandas)
-- ✉️ [deshpaad@mail.uc.edu]()
+- ✉️ Email - [deshpaad@mail.uc.edu]()
